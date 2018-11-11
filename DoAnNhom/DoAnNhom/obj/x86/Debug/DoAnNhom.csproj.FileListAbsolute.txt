@@ -1,0 +1,7 @@
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\bin\Debug\DoAnNhom.exe
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\bin\Debug\DoAnNhom.pdb
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\obj\x86\Debug\DoAnNhom.Form1.resources
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\obj\x86\Debug\DoAnNhom.Properties.Resources.resources
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\obj\x86\Debug\DoAnNhom.csproj.GenerateResource.Cache
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\obj\x86\Debug\DoAnNhom.exe
+C:\Users\r5r\Desktop\DoAnNhom\DoAnNhom\obj\x86\Debug\DoAnNhom.pdb
