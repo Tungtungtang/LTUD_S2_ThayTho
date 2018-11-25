@@ -1,0 +1,12 @@
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\bin\Debug\WFQLATM.exe
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\bin\Debug\WFQLATM.pdb
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.formaddNV.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.FormKH.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.FormNV.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.FormqlATM.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.Properties.Resources.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.csproj.GenerateResource.Cache
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.exe
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.pdb
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.FormMain1.resources
+C:\Users\r5r\Desktop\DoAnNhom_The_Tung\WFQLATM\obj\x86\Debug\WFQLATM.formadmin2.resources
